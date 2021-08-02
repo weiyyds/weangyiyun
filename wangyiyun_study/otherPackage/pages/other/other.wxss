@@ -1,0 +1,8 @@
+/* pages/other/other.wxss */
+@import "/template/mytemplate/mytemplate.wxss"
+
+.Othertitle{
+    font-size: 50rpx;
+    font-weight: bold;
+    color: green;
+}

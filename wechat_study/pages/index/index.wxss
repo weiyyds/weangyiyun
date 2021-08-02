@@ -1,0 +1,39 @@
+/* pages/index/index.wxss */
+.indexContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f0f;
+  height: 100%;
+}
+.avatarUrl{
+  /* 1px=2rpx,使用rpx可以适配不同的机型 */
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 50%;
+  margin: 80px 0;
+}
+.userName{
+  font-size: 24px;
+  margin: 50rpx 0;
+}
+.goStudy{
+  width: 300rpx;
+  height: 80rpx;
+  margin-top: 20px;
+  line-height: 80rpx;
+  text-align: center;
+  font-size: 28rpx;
+  border: 1px solid #333;
+  border-radius: 10px;
+}
+button{
+   width: 200rpx;
+  height: 200rpx;
+  border-radius: 50%;
+  margin:100px 0;
+  font-size: 24rpx;
+  line-height: 200rpx;
+  text-align: center;
+  background: greenyellow
+}

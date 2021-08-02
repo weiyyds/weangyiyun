@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#f0f",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "狂神"
+  },
+  "sitemapLocation": "sitemap84.json"
+}
